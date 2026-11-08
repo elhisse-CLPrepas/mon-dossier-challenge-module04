@@ -44,4 +44,10 @@ Relire les fichiers sélectionnés avant le commit. Conserver les informations c
 
 GitHub Pages publie la racine `/` de la branche `main`. Le fichier `.nojekyll` conserve les ressources statiques ; `index.html` ouvre la présentation en gardant l’ancre de séance. Aucune installation ni compilation n’est nécessaire. Le déploiement se suit dans l’onglet **Actions** du dépôt.
 
-L’ancienne copie du dossier dans le dépôt `atelier-seance-13-ln-ia` reste un instantané historique. Cette version autonome est désormais la référence à mettre à jour.
+## Dossier de travail actif — ateliers 13 à 16
+
+La copie de travail courante se trouve dans `atelier-seance-14-ln-ia/mon-dossier-challenge-module04/`. Elle conserve l’historique Git et le dépôt distant autonome du module. La copie de l’atelier 13 est conservée ; poursuivre les modifications dans celle de l’atelier 14 pour éviter deux versions divergentes.
+
+Ouvrir `OUVRIR-MODULE-04.html` pour consulter le parcours, puis compléter les fichiers Markdown de `04-communication/`, les observations de `05-automatisation/` et les preuves de `07-portfolio/`. Les modèles restent à remplir avec les productions réelles du candidat. Les exports de l’atelier S14 doivent être enregistrés dans ce dossier courant en conservant la preuve S13.
+
+Les modifications des fichiers locaux ne sont publiées qu’après un commit et un push depuis ce dossier. Le dépôt parent de l’atelier 14 ignore ce sous-dossier : il faut donc versionner les productions depuis le dépôt autonome du module, avec les commandes ci-dessus. La configuration de publication existante est conservée.
