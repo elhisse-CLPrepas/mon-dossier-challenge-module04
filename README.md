@@ -17,6 +17,8 @@ Référence pédagogique LN-IA pour les séances **13 à 16**, à partir du guid
 
 ## Retrouver les ressources
 
+Consulter [les liens entre ateliers et le versionnement autonome](00-pilotage/liaisons-ateliers-git.md) pour utiliser le même dossier de référence en S13, S14, S15 et S16.
+
 - `00-pilotage/` : calendrier, conduite et objectifs.
 - `03-sources/` : fiche source et liens du projet de référence.
 - `04-communication/` : fiches à compléter pour chaque séance.

@@ -1,6 +1,6 @@
 # Parcours local du Module 04
 
-Ce dossier accompagne les quatre séances avec le même projet. Les sources du candidat restent distinctes des exemples fictifs du formateur. Le dossier est local et exclu du suivi Git.
+Ce dossier accompagne les quatre séances avec le même projet. Les sources du candidat restent distinctes des exemples fictifs du formateur. Le dossier de référence possède son propre dépôt Git ; les sauvegardes locales sont exclues. Voir [les liens entre ateliers et les règles Git](liaisons-ateliers-git.md).
 
 | Séance | Date | Travail | Livrable |
 |---|---|---|---|
