@@ -1,53 +1,47 @@
-# Mon dossier challenge — Module 04
+﻿# Mon dossier challenge — continuité S15
 
-Référence pédagogique LN-IA pour les séances **13 à 16**, à partir du guide produit en séance 12. Les exemples du formateur sont fictifs ; les modèles candidat restent à compléter et la validation appartient au pilote humain.
+Copie de travail du 9 novembre 2026, reprise du dépôt S14 au commit 5f7bcbf avec l'historique S13. Les dossiers antérieurs restent conservés. Poursuivre S15 ici pour éviter des versions divergentes.
 
-## Ouvrir le module
+Ouvrir [SUIVI-S15.html](SUIVI-S15.html) ou index.html. L'atelier HTML fonctionne hors connexion ; le notebook demande un noyau Python 3.
 
-- **Site GitHub Pages :** https://elhisse-clprepas.github.io/mon-dossier-challenge-module04/
-- **Présentation locale :** [OUVRIR-MODULE-04.html](OUVRIR-MODULE-04.html), à ouvrir par double-clic en conservant tout le dossier.
-- **Dépôt autonome :** https://github.com/elhisse-CLPrepas/mon-dossier-challenge-module04
+## Travail à poursuivre
 
-| Séance | Accès en ligne | Fiche de travail |
-|---|---|---|
-| S13 — Comprendre | [Ouvrir S13](https://elhisse-clprepas.github.io/mon-dossier-challenge-module04/OUVRIR-MODULE-04.html#seance-13) | [Comprendre le processus](04-communication/comprendre-processus-communication.md) |
-| S14 — Manipuler | [Ouvrir S14](https://elhisse-clprepas.github.io/mon-dossier-challenge-module04/OUVRIR-MODULE-04.html#seance-14) | [Message court](04-communication/message-court-projet.md) |
-| S15 — Automatiser | [Ouvrir S15](https://elhisse-clprepas.github.io/mon-dossier-challenge-module04/OUVRIR-MODULE-04.html#seance-15) | [Règles d’automatisation](04-communication/comprendre-regles-automatisation.md) |
-| S16 — Produire | [Ouvrir S16](https://elhisse-clprepas.github.io/mon-dossier-challenge-module04/OUVRIR-MODULE-04.html#seance-16) | [Variantes et contrôles](04-communication/variantes-communication-projet.md) |
+1. Lire [le tableau des étapes](00-pilotage/SUIVI-ETAPES-S13-S16.md).
+2. Retrouver les productions S13/S14 éventuellement conservées ailleurs : les fiches reprises sont des modèles à compléter.
+3. Ouvrir [l'atelier S15](OUVRIR-SEANCE-15.html), prédire puis observer les essais et justifier la correction.
+4. Exporter et rouvrir la trace dans 04-communication/comprendre-regles-automatisation.md et le JSON dans 04-communication/donnees-pour-s16.json. Conserver les informations utiles avant de remplacer une fiche.
+5. Compléter l'entrée S15 du portfolio existant sans remplacer S13/S14.
+6. Suivre [le démarrage S16](05-automatisation/DEMARRER-S16.md).
 
-## Retrouver les ressources
+Les prédictions, observations et validations personnelles restent à renseigner. Le pilote décide après observation.
 
-- `00-pilotage/` : calendrier, conduite et objectifs.
-- `03-sources/` : fiche source et liens du projet de référence.
-- `04-communication/` : fiches à compléter pour chaque séance.
-- `05-automatisation/` : observations Python et Jupyter.
-- `06-ressources/` : guides, affiches, documents et démonstrations.
-- `07-portfolio/` : modèles de preuves.
+## Organisation
 
-Dans la présentation, ouvrir **Guide S12 et expériences** : liens du projet en ligne, consultation locale V1/V2/journal, trois expériences interactives et accès Python/Jupyter. Suivre [le parcours guidé](06-ressources/demo/parcours-guide-s12-s13.md).
+- 00-pilotage : étapes restantes, conduite, provenance et objectifs.
+- 03-sources : fiche source personnelle.
+- 04-communication : traces S13 à S16 et six champs justifiés.
+- 05-automatisation : observations et notebook candidat S16.
+- 06-ressources/seance-15/ressources : les 24 ressources du pack S15.
+- 07-portfolio : quatre preuves et décisions du pilote.
 
-Les sauvegardes présentes dans `06-ressources/sauvegardes/` restent locales et sont exclues de Git. Les exemples ne constituent pas des preuves personnelles.
+OUVRIR-MODULE-04.html et son PDF sont hérités de S14, conservés sans régénération. Le suivi actuel se trouve dans l'accueil S15 et les Markdown.
 
-## Versionner et publier les prochaines séances
+## Git et diffusion
 
-Ce dossier possède son propre dépôt Git, indépendant du dépôt parent de l’atelier S13. Exécuter les commandes **depuis ce dossier** :
+Le clone conserve l'historique et le distant origin du module : https://github.com/elhisse-CLPrepas/mon-dossier-challenge-module04.git. Aucun push ni déploiement n'est effectué. Les changements restent à relire avant commit :
 
 ```powershell
 git status
+git diff
 git add .
 git diff --cached --stat
-git commit -m "Actualiser les supports de la séance 14"
-git push origin main
+git commit -m "Préparer le suivi S15 et le relais S16"
 ```
 
-Relire les fichiers sélectionnés avant le commit. Conserver les informations confidentielles et les traces personnelles hors du dossier public.
+Ce dépôt sert aussi à des supports publics. Garder les données personnelles et confidentielles hors de la copie destinée à publication. Un commit local ne publie rien.
 
-GitHub Pages publie la racine `/` de la branche `main`. Le fichier `.nojekyll` conserve les ressources statiques ; `index.html` ouvre la présentation en gardant l’ancre de séance. Aucune installation ni compilation n’est nécessaire. Le déploiement se suit dans l’onglet **Actions** du dépôt.
+Voir [provenance et contrôles](00-pilotage/PROVENANCE-S15.md).
 
-## Dossier de travail actif — ateliers 13 à 16
+## Instructions et prompts S15
 
-La copie de travail courante se trouve dans `atelier-seance-14-ln-ia/mon-dossier-challenge-module04/`. Elle conserve l’historique Git et le dépôt distant autonome du module. La copie de l’atelier 13 est conservée ; poursuivre les modifications dans celle de l’atelier 14 pour éviter deux versions divergentes.
-
-Ouvrir `OUVRIR-MODULE-04.html` pour consulter le parcours, puis compléter les fichiers Markdown de `04-communication/`, les observations de `05-automatisation/` et les preuves de `07-portfolio/`. Les modèles restent à remplir avec les productions réelles du candidat. Les exports de l’atelier S14 doivent être enregistrés dans ce dossier courant en conservant la preuve S13.
-
-Les modifications des fichiers locaux ne sont publiées qu’après un commit et un push depuis ce dossier. Le dépôt parent de l’atelier 14 ignore ce sous-dossier : il faut donc versionner les productions depuis le dépôt autonome du module, avec les commandes ci-dessus. La configuration de publication existante est conservée.
+Ouvrir `02-PROMPT/01-INSTRUCTIONS-PARTICIPANT-S15.md`, puis `02-PROMPT/02-PROMPT-MAITRE-S15.md`. Les quatre fichiers de référence S13/S14 sont conservés dans ce même dossier. L’atelier autonome inclut 12 flashcards et 8 questions de quiz.

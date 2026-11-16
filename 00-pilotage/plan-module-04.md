@@ -1,6 +1,6 @@
 # Parcours local du Module 04
 
-Ce dossier accompagne les quatre séances avec le même projet. Les sources du candidat restent distinctes des exemples fictifs du formateur. Le dossier est local et exclu du suivi Git.
+Ce dossier accompagne les quatre séances avec le même projet. Les sources du candidat restent distinctes des exemples fictifs du formateur. Cette copie S15 possède son historique Git repris de S14. Voir SUIVI-ETAPES-S13-S16.md pour les tâches restantes.
 
 | Séance | Date | Travail | Livrable |
 |---|---|---|---|
