@@ -1,0 +1,19 @@
+ROUE LIBRE S14 — LES CINQ AFFICHES LN-IA V2
+
+Séance du vendredi 13 novembre 2026 · Module 04
+
+01 — Question de départ et cadrage
+02 — L’apport de l’humain, de l’IA, de Python et de Jupyter
+03 — Automatisation progressive et point d’arrêt pour décider
+04 — Expériences Python et Jupyter, résultats et limites
+05 — Questions pour approfondir et décision humaine
+
+Cette série intègre le logo fourni, une formatrice humaine et un bonhomme blanc en 3D. Les commentaires courts sont intégrés dans chaque image. L’humain porte la décision finale.
+
+L’objectif est une ouverture sur ce qui peut être répété et sur le moment où il faut s’arrêter pour interpréter, vérifier ou décider.
+
+Les mesures A 149, B 195 et C 166 concernent le cas fictif du script S14 exécuté lors de la préparation précédente. Elles ne constituent pas une nouvelle exécution du notebook. Les courtes invitations du bas de l’affiche 4 sont des exemples illustratifs distincts des textes mesurés.
+
+Les images ont été générées avec l’outil intégré ImageGen à partir du logo et des affiches de référence. Les prompts et la correction ciblée de l’affiche 3 sont conservés dans PROMPTS-V2.txt.
+
+Les cinq affiches de la première version restent dans le dossier parent.

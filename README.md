@@ -7,13 +7,17 @@ Ouvrir [SUIVI-S15.html](SUIVI-S15.html) ou index.html. L'atelier HTML fonctionne
 ## Travail à poursuivre
 
 1. Lire [le tableau des étapes](00-pilotage/SUIVI-ETAPES-S13-S16.md).
-2. Retrouver les productions S13/S14 éventuellement conservées ailleurs : les fiches reprises sont des modèles à compléter.
+2. Consulter les productions S13/S14 intégrées depuis le dépôt distant ; distinguer leurs projets et leurs appuis du cas Situation-Actuelle-IA traité en S15/S16.
 3. Ouvrir [l'atelier S15](OUVRIR-SEANCE-15.html), prédire puis observer les essais et justifier la correction.
 4. Exporter et rouvrir la trace dans 04-communication/comprendre-regles-automatisation.md et le JSON dans 04-communication/donnees-pour-s16.json. Conserver les informations utiles avant de remplacer une fiche.
 5. Compléter l'entrée S15 du portfolio existant sans remplacer S13/S14.
 6. Suivre [le démarrage S16](05-automatisation/DEMARRER-S16.md).
 
 Les prédictions, observations et validations personnelles restent à renseigner. Le pilote décide après observation.
+
+La présentation donne accès aux [ressources validées S14](OUVRIR-MODULE-04.html#ressources-validees-s14) : guide V2 et journal des corrections en PDF et Markdown, décisions du 13 novembre 2026, ainsi que les cinq affiches de la Roue libre. Les versions antérieures sont conservées comme historique pédagogique ; les preuves personnelles restent à compléter selon la fiche S14.
+
+Consulter [les liens entre ateliers et le versionnement autonome](00-pilotage/liaisons-ateliers-git.md) pour utiliser le même dossier de référence en S13, S14, S15 et S16.
 
 ## Organisation
 
@@ -23,12 +27,13 @@ Les prédictions, observations et validations personnelles restent à renseigner
 - 05-automatisation : observations et notebook candidat S16.
 - 06-ressources/seance-15/ressources : les 24 ressources du pack S15.
 - 07-portfolio : quatre preuves et décisions du pilote.
+- 08-accompagnement-S15-S16 : dossier de suivi Situation-Actuelle-IA, tests, notebook personnalisé, scripts et affiches LN-IA.
 
-OUVRIR-MODULE-04.html et son PDF sont hérités de S14, conservés sans régénération. Le suivi actuel se trouve dans l'accueil S15 et les Markdown.
+OUVRIR-MODULE-04.html reprend les compléments S14 du dépôt distant ; son PDF historique est conservé. Le suivi actuel se trouve dans l'accueil S15 et les Markdown.
 
 ## Git et diffusion
 
-Le clone conserve l'historique et le distant origin du module : https://github.com/elhisse-CLPrepas/mon-dossier-challenge-module04.git. Aucun push ni déploiement n'est effectué. Les changements restent à relire avant commit :
+Le clone conserve l'historique et le distant origin du module : https://github.com/elhisse-CLPrepas/mon-dossier-challenge-module04.git. Les productions S15/S16 sont enregistrées au commit bf96698. Les contributions distantes S13/S14 sont intégrées par fusion avant publication sur GitHub. Pour les modifications futures :
 
 ```powershell
 git status
@@ -45,3 +50,4 @@ Voir [provenance et contrôles](00-pilotage/PROVENANCE-S15.md).
 ## Instructions et prompts S15
 
 Ouvrir `02-PROMPT/01-INSTRUCTIONS-PARTICIPANT-S15.md`, puis `02-PROMPT/02-PROMPT-MAITRE-S15.md`. Les quatre fichiers de référence S13/S14 sont conservés dans ce même dossier. L’atelier autonome inclut 12 flashcards et 8 questions de quiz.
+

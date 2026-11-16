@@ -1,6 +1,6 @@
-# Parcours local du Module 04
+﻿# Parcours local du Module 04
 
-Ce dossier accompagne les quatre séances avec le même projet. Les sources du candidat restent distinctes des exemples fictifs du formateur. Cette copie S15 possède son historique Git repris de S14. Voir SUIVI-ETAPES-S13-S16.md pour les tâches restantes.
+Ce dossier accompagne les quatre séances avec le même projet. Les sources du candidat restent distinctes des exemples fictifs du formateur. Le dossier de référence possède son propre dépôt Git, dont cette copie S15 reprend les historiques S13/S14 et les productions S15/S16. Les sauvegardes locales sont exclues. Voir [les liens entre ateliers et les règles Git](liaisons-ateliers-git.md) et [le suivi des étapes S13 à S16](SUIVI-ETAPES-S13-S16.md).
 
 | Séance | Date | Travail | Livrable |
 |---|---|---|---|
@@ -22,3 +22,4 @@ Ce dossier accompagne les quatre séances avec le même projet. Les sources du c
 À COMPLÉTER : pièce ou observation manquante. À REVOIR : écart constaté. À VALIDER : éléments observés, décision du pilote attendue. VALIDÉ : décision explicite du pilote. Les messages restent BROUILLON — À RELIRE.
 
 Les objectifs et modèles sont une proposition pédagogique à relire par le pilote. Aucune preuve n’est déclarée acquise lors de la création du dossier.
+

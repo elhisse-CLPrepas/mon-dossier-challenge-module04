@@ -1,0 +1,20 @@
+AFFICHES ROUE LIBRE S14 — 13 NOVEMBRE 2026
+Génération : outil intégré image_gen. Cinq PNG paysage, 1536 × 1024 pixels.
+Orientation : ouverture pédagogique sur les possibilités de répétition et la décision humaine, sans formation technique à l’automatisation des systèmes.
+Direction commune : illustration éditoriale chaleureuse pour adultes débutants, papier ivoire, bleu nuit, turquoise et ocre, grands titres français, textes courts, marges larges. En-tête ROUE LIBRE · SÉANCE 14. Pied Vendredi 13 novembre 2026 · Module 04.
+Les mesures de l’affiche 4 correspondent au cas fictif préparé de la démonstration S14. Les deux invitations du bas sont un exemple explicatif ; elles ne sont pas les variantes mesurées. Les résultats illustrés dans le carnet ne revendiquent pas une exécution du notebook pendant la préparation.
+
+01-question-depart
+Titre « PRODUIRE AVEC L’IA : QUE PEUT-ON RÉPÉTER ? » Question principale très grande « À quel moment faut-il s’arrêter pour décider ? » Illustration centrale : une personne à une table avec un brouillon, trois cartes de variantes et une source ouverte, un chemin de petites répétitions qui aboutit à un repère pause avec une personne qui examine le texte. Encadré « Notre point de départ » puis trois lignes « Un message court » « Deux faits appuyés par une source » « Une seule action attendue ». Phrase finale « Comprendre avant de répéter. » Affiche 1 sur 5.
+
+02-apport-chacun
+Titre « COMPRENDRE L’APPORT DE CHACUN ». Quatre scènes illustrées élégantes autour d’une table commune, chacune avec son texte : « L’HUMAIN » / « Donne le sens, vérifie et décide. » ; « L’IA » / « Propose des formulations à relire. » ; « PYTHON » / « Répète des règles précises. » ; « JUPYTER » / « Réunit explications, essais et résultats. » Bandeau conclusion « La décision humaine reste indispensable. » Illustration doit montrer que Python est un outil de mesure et Jupyter un carnet d’expérience, sans faux logos. Affiche 2 sur 5.
+
+03-progressive
+Titre « AUTOMATISER PROGRESSIVEMENT ». Chemin pédagogique illustré de cinq stations, pas usine : 1 « FAIRE » / « Comprendre une première fois » ; 2 « DÉFINIR » / « Écrire une règle simple » ; 3 « RÉPÉTER » / « Appliquer la même règle » ; 4 « OBSERVER » / « Chercher les écarts et les limites » ; 5 « DÉCIDER » / « Corriger ou poursuivre ». Une pause très visible entre observer et décider, accompagnée d’un humain qui relit. Bandeau central « Répéter ce qui est clair. S’arrêter quand il faut interpréter. » Petit encadré « Une source manque ? Le sens change ? Une promesse apparaît ? → PAUSE ET RELECTURE ». Affiche 3 sur 5.
+
+04-experiences
+Titre « PYTHON MESURE · JUPYTER AIDE À COMPRENDRE ». Deux panneaux illustrés clairs. Gauche : « EXPÉRIENCE PYTHON », balance ou règle avec cartes A B C, textes « A : 149 caractères » « B : 195 caractères » « C : 166 caractères » puis « Le programme applique la règle. » Droite : « EXPÉRIENCE JUPYTER », carnet ouvert avec étapes et résultats, textes « Prédire → Exécuter → Observer → Expliquer » et « Le carnet garde le fil de l’expérience. » En bas une grande démonstration visuelle de deux invitations sur une carte : « Souhaitez-vous voir un extrait ? » et « Abonnez-vous à la lettre. » puis conclusion mise en évidence « Une occurrence exacte ne garantit pas une seule invitation. » Petit texte « Mesures du cas fictif S14 exécuté le 13 novembre 2026 ». Aucun code. Affiche 4 sur 5.
+
+05-approfondir
+Titre « S’ARRÊTER POUR DÉCIDER ». Grande illustration humaine : groupe de trois adultes discutant devant un brouillon, symbole pause subtil, carnet et source sur table. Quatre grandes questions lisibles dans des cartes aérées : « Qu’est-ce qui peut se répéter sans intervention ? » « Que contrôle réellement notre règle ? » « Qu’est-ce qui demande une relecture humaine ? » « À quel moment faut-il corriger ou décider ? » En bas deux petites zones : « ON PEUT RÉPÉTER : compter, comparer, signaler un écart. » et « ON S’ARRÊTE : source absente, sens ambigu, choix à faire. » Conclusion « L’objectif : comprendre les possibilités et garder la main. » Affiche 5 sur 5.
