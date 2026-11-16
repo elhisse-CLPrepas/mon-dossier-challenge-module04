@@ -17,6 +17,8 @@ Référence pédagogique LN-IA pour les séances **13 à 16**, à partir du guid
 
 ## Retrouver les ressources
 
+La présentation donne accès aux [ressources validées S14](OUVRIR-MODULE-04.html#ressources-validees-s14) : guide V2 et journal des corrections en PDF et Markdown, décisions du 13 novembre 2026, ainsi que les cinq affiches de la Roue libre. Les versions antérieures sont conservées comme historique pédagogique ; les preuves personnelles restent à compléter selon la fiche S14.
+
 Consulter [les liens entre ateliers et le versionnement autonome](00-pilotage/liaisons-ateliers-git.md) pour utiliser le même dossier de référence en S13, S14, S15 et S16.
 
 - `00-pilotage/` : calendrier, conduite et objectifs.
